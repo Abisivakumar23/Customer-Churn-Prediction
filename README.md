@@ -171,7 +171,7 @@ python src/predict.py
 
 ---
 
-## 📷 Results
+Results
 
 The project includes visualizations such as:
 
@@ -183,7 +183,7 @@ The project includes visualizations such as:
 
 ---
 
-## 🔮 Future Improvements
+Future Improvements
 
 * Hyperparameter tuning using GridSearchCV
 * Cross-validation
@@ -195,7 +195,7 @@ The project includes visualizations such as:
 
 ---
 
-## 📚 Learning Outcomes
+Learning Outcomes
 
 This project demonstrates practical experience with:
 
